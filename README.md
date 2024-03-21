@@ -6,14 +6,7 @@ This simple PHP script connects to a MySQL database to calculate and display the
 
 - PHP
 - MySQL
-- Web server (e.g., Apache, Nginx)
-
-## Installation
-
-1. Clone or download this repository to your local machine.
-2. Import the provided SQL file (`sales.sql`) into your MySQL database to create the required table.
-3. Update the database connection details in the PHP script (`index.php`) if necessary.
-4. Place the PHP script and other assets in the root directory of your web server.
+- Web server 
 
 ## Usage
 
